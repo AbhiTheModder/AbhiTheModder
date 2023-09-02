@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/AbhiTheModder"><img title="Abhi The MØÐÐĒR" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiTheModder&layout=compact"></a>
+<a href="https://github.com/AbhiTheModder"><img title="AbhiTheModder" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiTheModder&layout=compact"></a>
 </p>
   
   <p align="center"> 
