@@ -27,21 +27,6 @@
 <a href="https://github.com/AbhiTheModder/"><img title="Mooon-Userbot" src="https://github-readme-stats.vercel.app/api/pin/?username=The-MoonTg-project&repo=Moon-Userbot&theme=vision-friendly-dark"></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/AbhiTheModder"><img title="AbhiTheModder" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiTheModder&layout=compact"></a>
-</p>
-  
-  <p align="center"> 
-  :eyes: Visitor No: :eyes:<br>
-  <img src="https://profile-counter.glitch.me/Abhi-The-Modder/count.svg" />
-</p>
-
-  
-<p align="center"
-   
-![footer](https://capsule-render.vercel.app/api?height=200&type=transparent&section=footer&text=Thank%20You&fontAlignY=55&fontColor=dd1044)
-   </p>
-
 <!---
 AbhiTheModder/AbhiTheModder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
