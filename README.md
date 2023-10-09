@@ -1,12 +1,9 @@
-![header](https://capsule-render.vercel.app/api?height=200&type=waving&text=Hello%20World!&desc=Welcome%20to%20my%20profile&fontAlignY=26&descAlignY=45&color=gradient&animation=fadeIn)
+[![An image of @abhithemodder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhithemodder)](https://holopin.io/@abhithemodder)
 - 👋 Hi, I’m Abhi
 - 👀 I’m interested in Android/Desktop development, Reverse Engineering
 - 🌱 I’m currently learning all of the above which I'm interested(well i'm really learning flutterRE)
 - 💞️ I’m looking to collaborate on flutter reverse engineering
 
-
-<p align="center"><a href="https://github.com/AbhiTheModder"><img title="Abhi The MØÐÐĒR" src="https://github-readme-stats.vercel.app/api?username=AbhiTheModder&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
 
 <p align="center">
 <a href="https://github.com/AbhiTheModder"><img title="GitHub" src="https://img.shields.io/badge/Abhi-TheModder-brightgreen?style=for-the-badge&logo=github"></a>
