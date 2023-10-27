@@ -1,8 +1,4 @@
 [![An image of @abhithemodder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhithemodder)](https://holopin.io/@abhithemodder)
-- 👋 Hi, I’m Abhi
-- 👀 I’m interested in Android/Desktop development, Reverse Engineering
-- 🌱 I’m currently learning all of the above which I'm interested(well i'm actually learning flutterRE)
-- 💞️ I’m looking to collaborate on flutter reverse engineering
 
 
 <p align="center">
