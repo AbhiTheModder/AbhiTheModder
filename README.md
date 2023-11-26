@@ -12,6 +12,8 @@
 
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AbhiTheModder&show_icons=true&locale=en" alt="AbhiTheModder" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiTheModder)](https://github.com/ryo-ma/github-profile-trophy)
+
 <details>
     <summary><b>Detailed Contribution Info:</b></summary>
 <p align="center"
