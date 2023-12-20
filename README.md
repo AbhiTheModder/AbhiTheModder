@@ -21,9 +21,8 @@
   <td>
     <img src="https://github.com/AbhiTheModder/AbhiTheModder/blob/main/stats.svg" alt="Metrics" width="100%">
   </td>
-</tr></details>
-
-<!---Thanks to oSumAtrix for metrics idea--->
+</tr>
+</details>
 
 <!---
 AbhiTheModder/AbhiTheModder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
