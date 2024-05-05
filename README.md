@@ -1,9 +1,9 @@
 [![An image of @abhithemodder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhithemodder)](https://holopin.io/@abhithemodder)
 
 
-[![](https://img.shields.io/badge/Abhi-TheModder-brightgreen?style=for-the-badge&logo=github "GitHub")](https://github.com/AbhiTheModder) [![](https://img.shields.io/badge/YouTube-AbhiTheModder-red?style=for-the-badge&logo=youtube "YouTube")]([https://github.com/AbhiTheModder](https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q))
-
-[![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/joinchat/xP-wW-A5mIBmMjY1)
+| GitHub | YouTube | Telegram |
+|--------|---------|----------|
+| [![](https://img.shields.io/badge/Abhi-TheModder-brightgreen?style=for-the-badge&logo=github "GitHub")](https://github.com/AbhiTheModder) | [![](https://img.shields.io/badge/YouTube-AbhiTheModder-red?style=for-the-badge&logo=youtube "YouTube")]([https://github.com/AbhiTheModder](https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q)) | [![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/joinchat/xP-wW-A5mIBmMjY1) |
 
 ![AbhiTheModder](https://github-readme-stats.vercel.app/api?username=AbhiTheModder&show_icons=true&locale=en)
 
