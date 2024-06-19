@@ -17,7 +17,7 @@
 | [![AbhiTheModder Stats](https://github-readme-stats.vercel.app/api?username=AbhiTheModder&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=AbhiTheModder&theme=dracula&currStreakLabel=437C85&sideLabels=437C85&ring=007BEB&fire=007BEB&sideNums=007BEB&background=FFFFFF00&dates=437C85)](https://git.io/streak-stats) |
 
 # Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiTheModder?no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiTheModder&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
     <summary><b>Detailed Contribution Info:</b></summary>
