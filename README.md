@@ -25,7 +25,7 @@
 - [pyxamstore](https://github.com/AbhiTheModder/pyxamstore.git) [fork]: Refactored with Python 3 Support, New AssemblyStore V2 Format Support and more.
 - [frida-python](https://github.com/AbhiTheModder/frida-python.git): Python bindings for Frida but with devkit.
 - [termux-hermes](https://github.com/AbhiTheModder/termux-hermes.git): Instructions & Scripts for building hermes on termux.
-- [termux-scripts](https://github.com/AbhiTheModder/termux-scripts.git): A collection of scripts for simplifying tool installation and usage. Named "termux-scripts" as I primarily work on Android (Termux), but the it contains various useful scripts for personal use, unrelated to it's name.
+- [termux-scripts](https://github.com/AbhiTheModder/termux-scripts.git): A collection of scripts for simplifying tool installation and usage. Named "termux-scripts" as I primarily work on Android (Termux), but it contains various useful scripts for personal use, unrelated to it's name.
 - [Fine](https://github.com/AbhiTheModder/Fine.git): Pine and Frida better together, An Example of using `android:appComponentFactory` manifest attribute.
 - [NewPineExample](https://github.com/AbhiTheModder/NewPineExample.git): Pine Hook Example through `android:name` manifest attribute.
 - [PineHookPlus](https://github.com/RevEngiSquad/PineHookPlus.git): Pine Hook +, Hook any class, method without changing/writing code everytime.
