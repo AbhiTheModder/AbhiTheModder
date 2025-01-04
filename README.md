@@ -21,21 +21,23 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbhiTheModder&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Projects
-- [understand-smali](https://github.com/AbhiTheModder/understand-smali.git): An effort to facilitate learning and understanding of Smali easier.
-- [pyxamstore](https://github.com/AbhiTheModder/pyxamstore.git) [fork]: Refactored with Python 3 Support, New AssemblyStore V2 Format Support and more.
+
+- [apksearch](https://github.com/AbhiTheModder/apksearch.git): Your APK search engine, enabling searches for APKs across various websites.
+- [blutter-termux](https://github.com/dedshit/blutter-termux.git) [Maintainer]: [B(l)utter](https://github.com/worawit/blutter.git) for Termux with numerous enhancements.
+- [dex2c](https://github.com/codehasan/dex2c.git) [Maintainer]: A method-based AOT compiler that wraps Dalvik bytecode with JNI native code.
+- [Fine](https://github.com/AbhiTheModder/Fine.git): Pine and Frida better together. Demonstrates using the `android:appComponentFactory` manifest attribute.
 - [frida-python](https://github.com/AbhiTheModder/frida-python.git): Python bindings for Frida but with devkit.
-- [termux-hermes](https://github.com/AbhiTheModder/termux-hermes.git): Instructions & Scripts for building hermes on termux.
-- [termux-scripts](https://github.com/AbhiTheModder/termux-scripts.git): A collection of scripts for simplifying tool installation and usage. Named "termux-scripts" as I primarily work on Android (Termux), but it contains various useful scripts for personal use, unrelated to it's name.
-- [Fine](https://github.com/AbhiTheModder/Fine.git): Pine and Frida better together, An Example of using `android:appComponentFactory` manifest attribute.
-- [NewPineExample](https://github.com/AbhiTheModder/NewPineExample.git): Pine Hook Example through `android:name` manifest attribute.
-- [PineHookPlus](https://github.com/RevEngiSquad/PineHookPlus.git): Pine Hook +, Hook any class, method without changing/writing code everytime.
-- [smalig](https://github.com/RevEngiSquad/smalig.git): Advanced Dalvik(Smali) ByteCode info (grammar) fetch tool written in Python.
-- [blutter-termux](https://github.com/dedshit/blutter-termux.git) [maintainer]: [B(l)utter](https://github.com/worawit/blutter.git) for termux with many other improvements.
-- [dex2c](https://github.com/codehasan/dex2c.git) [maintainer]: Method-based AOT compiler that can wrap Dalvik bytecode with JNI native code.
-- [Moon-Userbot](https://github.com/The-MoonTg-project/Moon-Userbot.git): A Simple, Fast, Customizable, Ai powered Userbot for Telegram. Initially made for personal usages(with some rev tools support), now it's much more than that.
 - [gemini-ai-telegram](https://github.com/AbhiTheModder/gemini-ai-telegram.git)
-- [tgbot-business-ai](https://github.com/AbhiTheModder/tgbot-business-ai.git): New Telegram Business Chatbot feature to reply to users on your behalf. Chat history support for each individual user, enabling personalized and context-aware responses.
-- [MT-NotepadPlus](https://github.com/AbhiTheModder/MT-NotepadPlus.git): smali syntax highlighting for notepad++ like MT Manager.
+- [MT-NotepadPlus](https://github.com/AbhiTheModder/MT-NotepadPlus.git): Smali syntax highlighting for Notepad++, inspired by MT Manager.
+- [Moon-Userbot](https://github.com/The-MoonTg-project/Moon-Userbot.git): A simple, fast, customizable, AI-powered Telegram userbot. Initially for personal use with reverse engineering tools, now greatly expanded.
+- [NewPineExample](https://github.com/AbhiTheModder/NewPineExample.git): A Pine hook example utilizing the `android:name` manifest attribute.
+- [PineHookPlus](https://github.com/RevEngiSquad/PineHookPlus.git): Pine Hook+ allows hooking any class or method without rewriting code each time.
+- [pyxamstore](https://github.com/AbhiTheModder/pyxamstore.git) [Fork]: Refactored for Python 3 support, new AssemblyStore V2 format support, and additional features.
+- [smalig](https://github.com/RevEngiSquad/smalig.git): An advanced Dalvik (Smali) bytecode information and grammar-fetch tool written in Python.
+- [tgbot-business-ai](https://github.com/AbhiTheModder/tgbot-business-ai.git): A Telegram business chatbot offering personalized, context-aware responses with chat history for individual users.
+- [termux-hermes](https://github.com/AbhiTheModder/termux-hermes.git): Instructions and scripts for building Hermes on Termux.
+- [termux-scripts](https://github.com/AbhiTheModder/termux-scripts.git): A collection of scripts for simplifying tool installation and usage. Named "termux-scripts" as I primarily work on Android (Termux), but it contains various useful scripts for personal use, unrelated to it's name.
+- [understand-smali](https://github.com/AbhiTheModder/understand-smali.git): An initiative to make learning and understanding Smali easier.
 
 _TBC..._
 
