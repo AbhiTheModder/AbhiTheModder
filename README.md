@@ -33,6 +33,7 @@
 - [NewPineExample](https://github.com/AbhiTheModder/NewPineExample.git): A Pine hook example utilizing the `android:name` manifest attribute.
 - [PineHookPlus](https://github.com/RevEngiSquad/PineHookPlus.git): Pine Hook+ allows hooking any class or method without rewriting code each time.
 - [pyxamstore](https://github.com/AbhiTheModder/pyxamstore.git) [Fork]: Refactored for Python 3 support, new AssemblyStore V2 format support, and additional features.
+- [RevEngi](https://github.com/RevEngiSquad.git): Your all-in-one toolkit for Reverse Engineering in Telegram
 - [smalig](https://github.com/RevEngiSquad/smalig.git): An advanced Dalvik (Smali) bytecode information and grammar-fetch tool written in Python.
 - [tgbot-business-ai](https://github.com/AbhiTheModder/tgbot-business-ai.git): A Telegram business chatbot offering personalized, context-aware responses with chat history for individual users.
 - [termux-hermes](https://github.com/AbhiTheModder/termux-hermes.git): Instructions and scripts for building Hermes on Termux.
