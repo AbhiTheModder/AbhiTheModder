@@ -56,7 +56,7 @@ jobs:
           plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
           plugin_reactions_limit: 200
           plugin_reactions_limit_issues: 100
-          plugin_skyline: yes
+          plugin_skyline: no
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
           plugin_skyline_year: current-year
