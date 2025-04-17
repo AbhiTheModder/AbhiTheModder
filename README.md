@@ -28,6 +28,7 @@
 - [Fine](https://github.com/AbhiTheModder/Fine.git): Pine and Frida better together. Demonstrates using the `android:appComponentFactory` manifest attribute.
 - [frida-python](https://github.com/AbhiTheModder/frida-python.git): Python bindings for Frida but with devkit.
 - [gemini-ai-telegram](https://github.com/AbhiTheModder/gemini-ai-telegram.git)
+- [LYADI (**L**et **Y**our **A**I **D**o **I**t)](https://github.com/AbhiTheModder/LYADI): An MCP (Model Context Protocol) Server specifically designed to help with reverse engineering tasks, majorly focused on Android side.
 - [MT-NotepadPlus](https://github.com/AbhiTheModder/MT-NotepadPlus.git): Smali syntax highlighting for Notepad++, inspired by MT Manager.
 - [Moon-Userbot](https://github.com/The-MoonTg-project/Moon-Userbot.git): A simple, fast, customizable, AI-powered Telegram userbot. Initially for personal use with reverse engineering tools, now greatly expanded.
 - [NewPineExample](https://github.com/AbhiTheModder/NewPineExample.git): A Pine hook example utilizing the `android:name` manifest attribute.
