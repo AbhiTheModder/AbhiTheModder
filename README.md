@@ -34,6 +34,7 @@
 - [NewPineExample](https://github.com/AbhiTheModder/NewPineExample.git): A Pine hook example utilizing the `android:name` manifest attribute.
 - [PineHookPlus](https://github.com/RevEngiSquad/PineHookPlus.git): Pine Hook+ allows hooking any class or method without rewriting code each time.
 - [pyxamstore](https://github.com/AbhiTheModder/pyxamstore.git) [Fork]: Refactored for Python 3 support, new AssemblyStore V2 format support, and additional features.
+- [r2web](https://github.com/AbhiTheModder/r2web.git): Access radare2 from anywhere, anytime.
 - [RevEngiBot](https://t.me/RevEngiBot): Your all-in-one toolkit for Reverse Engineering in Telegram
 - [revengi-app](https://github.com/RevEngiSquad/revengi-app.git): Built from scratch, in dart (flutter), DexRepair, Blutter, AntiSplit and much more...
 - [smalig](https://github.com/RevEngiSquad/smalig.git): An advanced Dalvik (Smali) bytecode information and grammar-fetch tool written in Python.
