@@ -9,7 +9,7 @@
 # Socials
 | GitHub | YouTube | Telegram |
 |--------|---------|----------|
-| [![](https://img.shields.io/badge/Abhi-TheModder-brightgreen?style=for-the-badge&logo=github "GitHub")](https://github.com/AbhiTheModder) | [![](https://img.shields.io/badge/YouTube-AbhiTheModder-red?style=for-the-badge&logo=youtube "YouTube")]([https://github.com/AbhiTheModder](https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q)) | [![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/joinchat/xP-wW-A5mIBmMjY1) |
+| [![](https://img.shields.io/badge/Abhi-TheModder-brightgreen?style=for-the-badge&logo=github "GitHub")](https://github.com/AbhiTheModder) | [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q) | [![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/AbhiTheM0dder) |
 
 # Metrics
 | Stats | Streak | Top Langs |
