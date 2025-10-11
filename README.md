@@ -32,6 +32,7 @@
 - [MT-NotepadPlus](https://github.com/AbhiTheModder/MT-NotepadPlus.git): Smali syntax highlighting for Notepad++, inspired by MT Manager.
 - [Moon-Userbot](https://github.com/The-MoonTg-project/Moon-Userbot.git): A simple, fast, customizable, AI-powered Telegram userbot. Initially for personal use with reverse engineering tools, now greatly expanded.
 - [NewPineExample](https://github.com/AbhiTheModder/NewPineExample.git): A Pine hook example utilizing the `android:name` manifest attribute.
+- [nyxstone-r2](https://github.com/AbhiTheModder/nyxstone-r2): [nyxstone](https://github.com/emproof-com/nyxstone) plugin for [radare2](https://github.com/radareorg/radare2).
 - [PineHookPlus](https://github.com/RevEngiSquad/PineHookPlus.git): Pine Hook+ allows hooking any class or method without rewriting code each time.
 - [pyxamstore](https://github.com/AbhiTheModder/pyxamstore.git) [Fork]: Refactored for Python 3 support, new AssemblyStore V2 format support, and additional features.
 - [r2web](https://github.com/AbhiTheModder/r2web.git): Access radare2 from anywhere, anytime.
