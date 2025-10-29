@@ -34,6 +34,7 @@
 - [NewPineExample](https://github.com/AbhiTheModder/NewPineExample.git): A Pine hook example utilizing the `android:name` manifest attribute.
 - [nyxstone-r2](https://github.com/AbhiTheModder/nyxstone-r2): [nyxstone](https://github.com/emproof-com/nyxstone) plugin for [radare2](https://github.com/radareorg/radare2).
 - [PineHookPlus](https://github.com/RevEngiSquad/PineHookPlus.git): Pine Hook+ allows hooking any class or method without rewriting code each time.
+- [playstoreapi](https://github.com/AbhiTheModder/playstoreapi.git): [UnOfficial] Google Play Store API wrapper in Python.
 - [pyxamstore](https://github.com/AbhiTheModder/pyxamstore.git): unpack and repack xamarin assemblies blobs, with new AssemblyStore V2 & V3 format support.
 - [r2web](https://github.com/AbhiTheModder/r2web.git): Access radare2 from anywhere, anytime.
 - [RevEngiBot](https://t.me/RevEngiBot): Your all-in-one toolkit for Reverse Engineering in Telegram
