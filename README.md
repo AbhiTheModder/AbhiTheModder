@@ -27,6 +27,7 @@
 - [dex2c](https://github.com/codehasan/dex2c.git) [Maintainer]: A method-based AOT compiler that wraps Dalvik bytecode with JNI native code.
 - [Fine](https://github.com/AbhiTheModder/Fine.git): Pine and Frida better together. Demonstrates using the `android:appComponentFactory` manifest attribute.
 - [frida-python](https://github.com/AbhiTheModder/frida-python.git): Python bindings for Frida but with devkit.
+- [frida-agent-api](https://github.com/AbhiTheModder/frida-agent-api.git): lightweight, simple frida agent compiler & API.
 - [gemini-ai-telegram](https://github.com/AbhiTheModder/gemini-ai-telegram.git)
 - [LYADI (**L**et **Y**our **A**I **D**o **I**t)](https://github.com/AbhiTheModder/LYADI): An MCP (Model Context Protocol) Server specifically designed to help with reverse engineering tasks, majorly focused on Android side.
 - [MT-NotepadPlus](https://github.com/AbhiTheModder/MT-NotepadPlus.git): Smali syntax highlighting for Notepad++, inspired by MT Manager.
