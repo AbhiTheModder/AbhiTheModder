@@ -1,7 +1,6 @@
 # About Me
-- 👋 Hi, I’m Abhi
-- 👀 I’m interested in IDK :(
-- 🌱 I'm nobody :(
+
+- Mobile security researcher
 
 # Badges
 [![An image of @abhithemodder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhithemodder)](https://holopin.io/@abhithemodder)
