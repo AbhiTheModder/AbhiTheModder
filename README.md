@@ -40,6 +40,7 @@
 - [RevEngiBot](https://t.me/RevEngiBot): Your all-in-one toolkit for Reverse Engineering in Telegram
 - [revengi-app](https://github.com/RevEngiSquad/revengi-app.git): Built from scratch, in dart (flutter), DexRepair, Blutter, AntiSplit and much more...
 - [smalig](https://github.com/RevEngiSquad/smalig.git): An advanced Dalvik (Smali) bytecode information and grammar-fetch tool written in Python.
+- [smalisp](https://github.com/AbhiTheModder/smalisp.git): A lightweight Language Server for Smali.
 - [tgbot-business-ai](https://github.com/AbhiTheModder/tgbot-business-ai.git): A Telegram business chatbot offering personalized, context-aware responses with chat history for individual users.
 - [termux-hermes](https://github.com/AbhiTheModder/termux-hermes.git): Instructions and scripts for building Hermes on Termux.
 - [termux-scripts](https://github.com/AbhiTheModder/termux-scripts.git): A collection of scripts for simplifying tool installation and usage. Named "termux-scripts" as I primarily work on Android (Termux), but it contains various useful scripts for personal use, unrelated to it's name.
