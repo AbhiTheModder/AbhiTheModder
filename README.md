@@ -5,11 +5,6 @@
 # Badges
 [![An image of @abhithemodder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhithemodder)](https://holopin.io/@abhithemodder)
 
-# Socials
-| GitHub | YouTube | Telegram |
-|--------|---------|----------|
-| [![](https://img.shields.io/badge/Abhi-TheModder-brightgreen?style=for-the-badge&logo=github "GitHub")](https://github.com/AbhiTheModder) | [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q) | [![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/AbhiTheM0dder) |
-
 # Metrics
 | Stats | Streak | Top Langs |
 |--------|--------|----------|
