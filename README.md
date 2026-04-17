@@ -2,17 +2,13 @@
 
 - Mobile security researcher
 
-# Badges
 [![An image of @abhithemodder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhithemodder)](https://holopin.io/@abhithemodder)
 
-# Metrics
 | Stats | Streak | Top Langs |
 |--------|--------|----------|
 | [![AbhiTheModder Stats](https://github-readme-stats.vercel.app/api?username=AbhiTheModder&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=AbhiTheModder&theme=dracula&currStreakLabel=437C85&sideLabels=437C85&ring=007BEB&fire=007BEB&sideNums=007BEB&background=FFFFFF00&dates=437C85&hide_border=true)](https://git.io/streak-stats) | [![AbhiTheModder Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiTheModder&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
-
-# Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiTheModder&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.benkou.dev/?username=AbhiTheModder&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Projects
 
