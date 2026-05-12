@@ -1,6 +1,6 @@
 # About Me
 
-- Mobile security researcher
+- Mobile security researcher & Developer
 
 [![An image of @abhithemodder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhithemodder)](https://holopin.io/@abhithemodder)
 
