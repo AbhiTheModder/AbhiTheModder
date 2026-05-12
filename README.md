@@ -28,6 +28,7 @@
 - [playstoreapi](https://github.com/AbhiTheModder/playstoreapi.git): [UnOfficial] Google Play Store API wrapper in Python.
 - [pyxamstore](https://github.com/AbhiTheModder/pyxamstore.git): unpack and repack xamarin assemblies blobs, with new AssemblyStore V2 & V3 format support.
 - [r2web](https://github.com/AbhiTheModder/r2web.git): Access radare2 from anywhere, anytime.
+- [r2garlic](https://github.com/radareorg/r2garlic.git): The world's fastest Android/DEX decompiler meets radare2.
 - [RevEngiBot](https://t.me/RevEngiBot): Your all-in-one toolkit for Reverse Engineering in Telegram
 - [revengi-app](https://github.com/RevEngiSquad/revengi-app.git): Built from scratch, in dart (flutter), DexRepair, Blutter, AntiSplit and much more...
 - [smalig](https://github.com/RevEngiSquad/smalig.git): An advanced Dalvik (Smali) bytecode information and grammar-fetch tool written in Python.
