@@ -38,6 +38,7 @@
 - [termux-scripts](https://github.com/AbhiTheModder/termux-scripts.git): A collection of scripts for simplifying tool installation and usage. Named "termux-scripts" as I primarily work on Android (Termux), but it contains various useful scripts for personal use, unrelated to it's name.
 - [understand-smali](https://github.com/AbhiTheModder/understand-smali.git): An initiative to make learning and understanding Smali easier.
 - [warrp](https://github.com/AbhiTheModder/warrp.git): Native radare2 plugin for the binary ninja's WARP signature format
+- [yarax_android](https://github.com/RevEngiSquad/yarax_android.git): The first Android implementation of YARA. Native Android JNI bindings for yara-x.
 
 _TBC..._
 
