@@ -106,7 +106,7 @@ Recent topics include:
 
 | Stats | Streak | Top Langs |
 | --- | --- | --- |
-| [![AbhiTheModder Stats](https://github-readme-stats.vercel.app/api?username=AbhiTheModder&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=AbhiTheModder&theme=dracula&currStreakLabel=437C85&sideLabels=437C85&ring=007BEB&fire=007BEB&sideNums=007BEB&background=FFFFFF00&dates=437C85&hide_border=true)](https://git.io/streak-stats) | [![AbhiTheModder Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiTheModder&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![AbhiTheModder Stats](https://github-stats-extended.vercel.app/api?username=AbhiTheModder&show_icons=true&theme=transparent&hide_border=true)](https://github.com/stats-organization/github-stats-extended) | [![GitHub Streak](https://streak-stats.demolab.com?user=AbhiTheModder&theme=dracula&currStreakLabel=437C85&sideLabels=437C85&ring=007BEB&fire=007BEB&sideNums=007BEB&background=FFFFFF00&dates=437C85&hide_border=true)](https://git.io/streak-stats) | [![AbhiTheModder Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AbhiTheModder&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://github.com/stats-organization/github-readme-stats) |
 
 [![trophy](https://trophy.benkou.dev/?username=AbhiTheModder&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
